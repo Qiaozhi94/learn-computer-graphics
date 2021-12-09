@@ -5,10 +5,9 @@ py = 4
 vx = 5
 vy = -2
 
-x = input("要判断的点的横坐标是")
-y = input("要判断的点的纵坐标是")
-x = float(x)
-y = float(y)
+x = float(input("要判断的点的横坐标是"))
+y = float(input("要判断的点的纵坐标是"))
+
 
 a = (vx - px)*(vx - px) + (vy - py)*(vy - py)
 ax = (vx - px)/(a ** 0.5)
