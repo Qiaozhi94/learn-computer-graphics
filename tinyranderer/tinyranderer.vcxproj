@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="..\..\tinyranderer\tinyranderer\tgaimage.h" />
+    <ClInclude Include="tgaimage.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.1_first.cpp" />

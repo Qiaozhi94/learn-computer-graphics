@@ -18,6 +18,9 @@
     <ClInclude Include="..\..\tinyranderer\tinyranderer\tgaimage.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="tgaimage.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="E:\迅雷下载\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\tgaimage.cpp">
