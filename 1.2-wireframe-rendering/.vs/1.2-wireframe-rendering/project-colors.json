@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e72610b6-bb6f-48dc-8b8b-b9e682bb6786": {
+      "ProjectGuid": "e72610b6-bb6f-48dc-8b8b-b9e682bb6786",
+      "DisplayName": "1.2-wireframe-rendering",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

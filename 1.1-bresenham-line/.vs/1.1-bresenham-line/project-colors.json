@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c81ab660-9e0e-4d92-8a6f-6622c82c1ab2": {
+      "ProjectGuid": "c81ab660-9e0e-4d92-8a6f-6622c82c1ab2",
+      "DisplayName": "1.1-bresenham-line",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

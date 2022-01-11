@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\1.1-bresenham-line",
+    "\\1.2-wireframe-rendering"
   ],
-  "SelectedNode": "\\tinyranderer.sln",
+  "SelectedNode": "\\1.1-bresenham-line\\main.cpp",
   "PreviewInSolutionExplorer": false
 }

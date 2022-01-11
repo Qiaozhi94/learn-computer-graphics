@@ -1,7 +1,0 @@
-﻿  main.cpp
-D:\Code-Documents\GitHub\learn-computer-graphics\Wireframe rendering\main.cpp(27,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\Code-Documents\GitHub\learn-computer-graphics\Wireframe rendering\main.cpp(49,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\Code-Documents\GitHub\learn-computer-graphics\Wireframe rendering\main.cpp(50,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\Code-Documents\GitHub\learn-computer-graphics\Wireframe rendering\main.cpp(51,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\Code-Documents\GitHub\learn-computer-graphics\Wireframe rendering\main.cpp(52,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  Wireframe rendering.vcxproj -> D:\Code-Documents\GitHub\learn-computer-graphics\Wireframe rendering\x64\Debug\Wireframe rendering.exe
